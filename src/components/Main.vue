@@ -20,7 +20,7 @@ div{
 
 main{
     width: 70%;
-    height: 180px;
+    height: 170px;
     margin: 0 auto;
     background-color: #212121;
     display: flex;
