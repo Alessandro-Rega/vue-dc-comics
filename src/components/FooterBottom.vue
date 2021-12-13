@@ -21,6 +21,9 @@ export default {
 </script>
 
 <style scoped>
+div{
+    background-color: #333333;
+}
 
 .container{
     width: 70%;
