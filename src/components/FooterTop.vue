@@ -39,7 +39,7 @@
             </ul>
         </div>
         <div class="lista-destra">
-            <h3>dc</h3>
+            <h3>sites</h3>
             <ul>
                 <li>DC</li>
                 <li>MAD Magazine</li>
