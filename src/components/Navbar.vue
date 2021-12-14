@@ -3,7 +3,7 @@
     <header>
       <div class="container">
         <div class="cont-img">
-          <img src="../assets/dc-logo.png" alt="logo dc">
+          <img src="../assets/img/dc-logo.png" alt="logo dc">
         </div>
         <ul>
           <li>characters</li>

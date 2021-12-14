@@ -3,23 +3,23 @@
       <section>
         <div class="container">
           <div class="card">
-            <img src="../assets/buy-comics-digital-comics.png" alt="digitale">
+            <img src="../assets/img/buy-comics-digital-comics.png" alt="digitale">
             <span>digital comics</span>
           </div>
           <div class="card">
-            <img src="../assets/buy-comics-merchandise.png" alt=",erch">
+            <img src="../assets/img/buy-comics-merchandise.png" alt=",erch">
             <span>dc merchandise</span>
           </div>
           <div class="card">
-            <img src="../assets/buy-comics-subscriptions.png" alt="iscrizione">
+            <img src="../assets/img/buy-comics-subscriptions.png" alt="iscrizione">
             <span>subscription</span>
           </div>
           <div class="card">
-            <img src="../assets/buy-comics-shop-locator.png" alt="mappe">
+            <img src="../assets/img/buy-comics-shop-locator.png" alt="mappe">
             <span>comic shop locator</span>
           </div>
           <div class="card">
-            <img src="../assets/buy-dc-power-visa.svg" alt="visa">
+            <img src="../assets/img/buy-dc-power-visa.svg" alt="visa">
             <span>dc power visa</span>
           </div>
         </div>

@@ -4,11 +4,11 @@
           <button class="btn">sign-up now!</button>
           <div class="social">
               <span>follow us</span>
-              <img src="../assets/footer-facebook.png" alt="facebook">
-              <img src="../assets/footer-twitter.png" alt="twitter">
-              <img src="../assets/footer-youtube.png" alt="youtube">
-              <img src="../assets/footer-pinterest.png" alt="pinterest">
-              <img src="../assets/footer-periscope.png" alt="periscope">
+              <img src="../assets/img/footer-facebook.png" alt="facebook">
+              <img src="../assets/img/footer-twitter.png" alt="twitter">
+              <img src="../assets/img/footer-youtube.png" alt="youtube">
+              <img src="../assets/img/footer-pinterest.png" alt="pinterest">
+              <img src="../assets/img/footer-periscope.png" alt="periscope">
           </div>
       </div>
   </div>

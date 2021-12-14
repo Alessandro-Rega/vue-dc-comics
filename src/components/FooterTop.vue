@@ -50,7 +50,7 @@
         </div>
     </div>
     <div class="logo-fine">
-        <img src="../assets/dc-logo-bg.png" alt="logo">
+        <img src="../assets/img/dc-logo-bg.png" alt="logo">
     </div>
   </div>
 </template>
@@ -66,7 +66,7 @@ export default {
 .bg{
     width: 100%;
     height: 400px;
-    background-image: url("../assets/footer-bg.jpg");
+    background-image: url("../assets/img/footer-bg.jpg");
     background-repeat: no-repeat;
     background-position: 0 -30px;
     background-size: cover;
