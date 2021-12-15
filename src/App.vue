@@ -23,7 +23,7 @@ export default {
     SectionMain,
     FooterTop,
     FooterBottom,
-  }
+  },
 }
 </script>
 
