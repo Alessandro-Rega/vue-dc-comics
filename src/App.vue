@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <Navbar/>
+    <Jumbo/>
     <Main/>
     <SectionMain/>
     <FooterTop/>
@@ -10,6 +11,7 @@
 
 <script>
 import Navbar from './components/Navbar.vue'
+import Jumbo from './components/Jumbo.vue'
 import Main from './components/Main.vue'
 import SectionMain from './components/SectionMain.vue'
 import FooterTop from './components/FooterTop.vue'
@@ -19,6 +21,7 @@ export default {
   name: 'App',
   components: {
     Navbar,
+    Jumbo,
     Main,
     SectionMain,
     FooterTop,
@@ -28,6 +31,7 @@ export default {
 </script>
 
 <style lang="scss">
+
 *{
   padding: 0;
   margin: 0;
@@ -41,4 +45,5 @@ export default {
   background-color: #1f1f1f;
   padding-top: 20px;
 }
+
 </style>
